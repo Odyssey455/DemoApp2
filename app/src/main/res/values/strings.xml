@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Demo App 2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="boxOne">Box One</string>
+    <string name="boxTwo">Box Two</string>
+    <string name="boxThree">Box Three</string>
+    <string name="boxFour">Box Four</string>
+    <string name="boxFive">Box Five</string>
+</resources>
